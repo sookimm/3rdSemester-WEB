@@ -1,0 +1,24 @@
+* {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  background-color: #cfe0e8;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.container-fluid {
+  font-size: 20px;
+  background-color: #87bdd8;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
